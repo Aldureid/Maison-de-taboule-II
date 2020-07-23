@@ -1,0 +1,84 @@
+body {background-color: darkgreen;}
+p {margin: 25px 50px 75px 100px;}
+div {
+  margin: auto;}
+
+#r {color: green ;}
+#r {height: 60px;
+  width: 100%;background-color: black ;}
+#r {text-indent: 310px;}
+#r {text-transform: uppercase;}
+#r {text-shadow: 312px 23px;}
+#happ {background-color: lightblue; text-align: center; outline-style: double;
+outline-color: red; background-color: brown
+}
+#add {position: static;
+    right: 100;
+font-family: "Sofia"; font-style: oblique; font-size: 30px;}
+
+#link {background-color: cyan;}
+
+#logo {
+  position: absolute;
+  top: 4px;
+  right: 110;
+  width: 180px;
+  height: 200px;
+  margin: auto;
+  border: 9px solid #73AD21;}
+#menu {left: 1px;
+ width: 880px;
+  height: 800px;
+  position: relative;
+right
+  width: 61px;
+border: 6px solid #73AD21;}
+#ing33 {font-family: "Lucida Console"
+}
+
+#ing32 {font-family: "Courier";
+       font-style: italic;
+  background-color: orange;
+  opacity: 0.7;
+  border-style: dotted;
+  border-right-style: solid;
+  border-left-style: solid}
+
+#why { margin-left: 260px;}
+#like {position: relative;
+    left: 5px; top:40px;}
+
+.main {
+  width: 450px;
+  height: 500px;
+  
+  border: 6px solid black;}
+
+.ing {style= 
+      font-family: Helvetica;
+      font-style: oblique; 
+      color:Tomato;}
+#ofer {  background-image: url("https://www.kasandbox.org/programming-images/food/tomatoes.png"); color: white; text-align: center;  font-size: 190px;
+}
+
+#visit { color:red; background-color:white; font-size: 40px; 
+   border: 5px solid black; padding: 10px; width: 290px;
+  height: 190px;text-align: justify; 
+position: relative; left: 110px;
+}
+
+#stay {color:white; position: relative;
+    right: -500px; background-color:red; font-size: 40px; 
+   border: 5px solid black; padding: 10px; width: 210px;
+  height: 110px;text-align: center;  }
+
+.has {center 
+  height: 200px;
+  position: relative;
+  border: 3px solid green;}
+.has { box height: 100px; 
+ box {
+  float: left;
+  padding: 15px;}
+
+
